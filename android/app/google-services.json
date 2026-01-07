@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "112296304570",
+    "project_id": "optilook-ab208",
+    "storage_bucket": "optilook-ab208.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112296304570:android:dc1bc587753ca359f98783",
+        "android_client_info": {
+          "package_name": "com.example.tp_flutter_optilook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112296304570-75krr43bcf25mgcn0ubsbg3h3vkckh9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX9OMDOaUmeOr6SKytBWp70K7rMANURzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112296304570-75krr43bcf25mgcn0ubsbg3h3vkckh9b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "112296304570-glbgtv3rp83ags05srvfvsq841og8rsl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tpFlutterOptilook"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
